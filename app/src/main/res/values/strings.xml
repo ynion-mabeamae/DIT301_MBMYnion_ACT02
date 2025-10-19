@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultiHello</string>
+    <string name="ynion_activity_2">Ynion - Activity 2</string>
+    <string name="second_activity">Welcome to Screen 2</string>
+    <string name="btn_navigate">Navigate</string>
+</resources>
