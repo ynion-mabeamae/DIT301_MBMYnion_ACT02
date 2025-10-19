@@ -1,4 +1,4 @@
-## Activity 1 : Reflection
+## Activity 2 : Reflection
 <strong>What did you observe about the app lifecycle when switching between screens or minimizing the app?</strong><br>
 
 <p>The app lifecycle is managed through a series of callbacks that allow the 
